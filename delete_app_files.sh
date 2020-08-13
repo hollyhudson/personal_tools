@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Holly Hudson, with help from Trammell Hudson
 
 help="          Usage:
 List your search terms as arguments.

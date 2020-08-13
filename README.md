@@ -2,7 +2,7 @@
 
 `delete_app_files`
 
-For deleting an app on MacOS.  Delete the main app file from `/Applications` on your own, then run this to clean up all of it's preference, library, startup, and user files that are scattered around.
+For deleting an app on MacOS.  Delete the main app file from `/Applications` on your own, then run this to clean up all of its preference, library, startup, and user files that are scattered around.
 
 Fear not!  It won't automatically delete anything.  It will give you list of files, and then ask if you want to delete them all in one go.  You can say yes, or you can use the list to delete them yourself if you see mistakes in the list.
 
